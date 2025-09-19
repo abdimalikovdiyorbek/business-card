@@ -13,4 +13,4 @@ Made it for Scrimba's HTML & CSS course but may use it for future purposes. But 
 - CSS
 
 ## Key Takeaways
-- I recommend to see the card in a minimzed window (like boxed window) for better view but full-sized view is also great
+- I recommend to see the card in a minimized window (like boxed window) for better view but full-sized view is also great
